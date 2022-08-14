@@ -1,0 +1,15 @@
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\bin\Debug\net6.0\Proje-2_ToDoList.exe
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\bin\Debug\net6.0\Proje-2_ToDoList.deps.json
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\bin\Debug\net6.0\Proje-2_ToDoList.runtimeconfig.json
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\bin\Debug\net6.0\Proje-2_ToDoList.dll
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\bin\Debug\net6.0\Proje-2_ToDoList.pdb
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.csproj.AssemblyReference.cache
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.AssemblyInfoInputs.cache
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.AssemblyInfo.cs
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.dll
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\refint\Proje-2_ToDoList.dll
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.pdb
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\Proje-2_ToDoList.genruntimeconfig.cache
+C:\Users\mesut\Desktop\C#101 Projeler\Proje-2_ToDoList\obj\Debug\net6.0\ref\Proje-2_ToDoList.dll
